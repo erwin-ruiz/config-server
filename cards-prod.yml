@@ -2,7 +2,7 @@ build:
   version: "1.7"
 
 cards:
-  message: "Welcome to fsociety Bank cards related PROD API's"
+  message: "Welcome to fsociety Bank cards related PROD ENV API's"
   contactDetails:
     name: "Fernanda Spears - Product Owner"
     email: "fernanda@test.com"
