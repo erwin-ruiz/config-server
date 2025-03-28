@@ -2,7 +2,7 @@ build:
   version: "1.5"
 
 loans:
-  message: "Welcome to fsociety Bank loans related prod API's"
+  message: "Welcome to fsociety Bank loans related PROD ENV API's"
   contactDetails:
     name: "Lua Fernandez - Product Owner"
     email: "lua.fernandez@fsociety.com"
