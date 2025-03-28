@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to fsociety Bank accounts related QA API's"
+  contactDetails:
+    name: "Guillermo Jons - QA Lead"
+    email: "guillermo@fsociety.com"
+  onCallSupport:
+    - (666) 234-4356
+    - (666) 555-1234

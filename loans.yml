@@ -1,0 +1,11 @@
+build:
+  version: "1.2"
+
+loans:
+  message: "Welcome to fsociety Bank loans related local API's"
+  contactDetails:
+    name: "Ryan Hush- Developer"
+    email: "ryan.hush@fsociety.com"
+  onCallSupport:
+    - (857) 4432 6722
+    - (857) 4432 1244

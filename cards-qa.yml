@@ -1,0 +1,11 @@
+build:
+  version: "1.3"
+
+cards:
+  message: "Welcome to fsociety Bank cards related QA API's"
+  contactDetails:
+    name: "Sarah Gonzalez- QA Lead"
+    email: "sarah@test.com"
+  onCallSupport:
+    - (412) 567-1278
+    - (412) 456-8750

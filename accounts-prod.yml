@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to fsociety Bank accounts related prod API's"
+  contactDetails:
+    name: "Max Anderson - Product Owner"
+    email: "max.aderson@fsociety.com"
+  onCallSupport:
+    - (453) 234-4356
+    - (236) 555-1234

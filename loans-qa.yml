@@ -1,0 +1,11 @@
+build:
+  version: "1.3"
+
+loans:
+  message: "Welcome to fsociety Bank loans related qa API's"
+  contactDetails:
+    name: "Steve Browns - QA Lead"
+    email: "steve.browns@fsociety.com"
+  onCallSupport:
+    - (857) 4432 6722
+    - (857) 4432 1244

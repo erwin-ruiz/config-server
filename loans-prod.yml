@@ -1,0 +1,11 @@
+build:
+  version: "1.5"
+
+loans:
+  message: "Welcome to fsociety Bank loans related prod API's"
+  contactDetails:
+    name: "Lua Fernandez - Product Owner"
+    email: "lua.fernandez@fsociety.com"
+  onCallSupport:
+    - (857) 4432 6722
+    - (857) 4432 1244

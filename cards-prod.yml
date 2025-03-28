@@ -1,0 +1,11 @@
+build:
+  version: "1.7"
+
+cards:
+  message: "Welcome to fsociety Bank cards related prod API's"
+  contactDetails:
+    name: "Fernanda Spears - Product Owner"
+    email: "fernanda@test.com"
+  onCallSupport:
+    - (899) 567-1278
+    - (899) 189-2354
