@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to fsociety Bank accounts related local API's"
   contactDetails:
     name: "Erwin Ruiz - Developer"
-    email: "{cipher}07e9e948a9e5fac38e30597c12071ccd025b6c1e5b02a6e127c517d6947591d742acad02419f38f7eb5f91a16a5c9e04"
+    email: "{cipher}cb1ef1c6f57430646b1e88f6496b0b2bdcad9eef7ef1bcb5954a15d3f6926371efb27747baf66894c35e9b9740975c46"
   onCallSupport:
     - (555) 555-1234
     - (555) 234-4356
