@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to fsociety Bank accounts related TESTING API's"
+  message: "Welcome to fsociety Bank accounts related [LOCAL] API's"
   contactDetails:
     name: "Erwin Ruiz - Developer"
     email: "{cipher}cb1ef1c6f57430646b1e88f6496b0b2bdcad9eef7ef1bcb5954a15d3f6926371efb27747baf66894c35e9b9740975c46"
